@@ -1,15 +1,32 @@
-html - Main starter
-body - Body part (where everything goes)
-head - Where the title goes
-title - Title of the page (The name of the tab)
-link - Link a certain object/task to another file
-h# - Headers and the number indicates the order of importance
-em - Emphasis on a certain part of the text
-strong - Strong emphasis on parts of the text
-hr - Break line
-p - Paragraph starter
-br - Break
+<html> - Main starter
+<body> - Body part (where everything goes)
+<head> - Where the title goes
+<title> - Title of the page (The name of the tab)
+<link> - Link a certain object/task to another file
+<h#> - Headers and the number indicates the order of importance
+<em> - Emphasis on a certain part of the text
+<strong> - Strong emphasis on parts of the text
+<hr> - Break line
+<p> - Paragraph starter
+<br> - Break
+<abbr title = ""> - Abbreviations
+<address> - Tells the browser that this is an address 
+<li> - Creates a list
+<ol> - Ordered list
+<meta> - holds extra information of the browser that are not shown in the browser
 
+keywords:
+id = name to refer to
+class = a .function to refer to from css
+type = type of file/data
+onclick = event listener for onclick
+lang = language
+charset = character set default
+start = starting from a certain point
+content = Stores the content of the tag, not shown in the browser
+name = the name of the tag
+rel = relation to a file (stylesheet)
+href = what the file name is 
 
 HTML Entity Codes:
 &nbsp; - Blank spaces
