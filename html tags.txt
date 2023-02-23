@@ -1,0 +1,17 @@
+html - Main starter
+body - Body part (where everything goes)
+head - Where the title goes
+title - Title of the page (The name of the tab)
+link - Link a certain object/task to another file
+h# - Headers and the number indicates the order of importance
+em - Emphasis on a certain part of the text
+strong - Strong emphasis on parts of the text
+hr - Break line
+p - Paragraph starter
+br - Break
+
+
+HTML Entity Codes:
+&nbsp; - Blank spaces
+&lt; - Less than symbol
+&gt; - Greater than symbol
